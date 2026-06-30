@@ -25,5 +25,5 @@ location = "https://teams.microsoft.com/meet/253907517636673?p=2yg2pES56LxzyL1HD
 #
 #   ordinal: first | second | third | fourth | fifth | last
 #   weekday: Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday
-ordinal = "second"
+ordinal = "first"
 weekday = "Thursday"
