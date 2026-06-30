@@ -15,6 +15,7 @@ permissions:
 jobs:
   create-agenda:
     runs-on: ubuntu-latest
+    if: github.repository_owner == 'OpenDevicePartnership'
     steps:
       - name: Check Out Repository
         uses: actions/checkout@v6
